@@ -30,5 +30,5 @@ func aboutArrays() {
 
 	veggies := [...]string{"carrot", "pea"}
 
-	assert(len(veggies) == __int__) // array literals need not repeat an obvious length
+	assert(len(veggies) == 2) // array literals need not repeat an obvious length
 }
